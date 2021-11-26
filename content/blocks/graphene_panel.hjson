@@ -1,0 +1,14 @@
+type: SolarGenerator
+name: "graphene solar panel"
+description: "an advanced solar panel made from graphene"
+size: 1
+health: 100
+powerProduction: 0.5
+requirements: [
+    silicon/30
+    copper/50
+    lead/50
+    graphene/30
+]
+category: power
+research: solar-panel

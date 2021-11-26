@@ -1,0 +1,11 @@
+type: liquid
+description: "a flammable liquid (I know its a gas IRL but there are no gases) that has advanced chemical properties"
+name: "hydrogen"
+color: "b5ffeb"
+flammability: 0.5
+temperature: 0.3
+viscosity: 0.2
+explosiveness: 0.3
+research: {
+   parent: water
+}

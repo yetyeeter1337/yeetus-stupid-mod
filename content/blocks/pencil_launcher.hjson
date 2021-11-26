@@ -1,0 +1,29 @@
+type: ItemTurret
+name: "pencil launcher"
+description: "a powerful turret which launches powerful PENCIL rounds at the enemy"
+size: 2
+range: 350
+health: 970
+reloadTime: 20
+recoilAmount: 7
+restitution: 0.1
+inaccuracy: 3
+ammoTypes: {
+  graphene: {
+	damage: 60
+	speed: 10
+	ammoMultiplier: 2
+	peirce: 2
+	frontColor: 00040a
+	backColor: 00040a
+	}
+
+}
+requirements: [
+	copper/120
+	lead/100
+	graphene/50
+	silicon/30
+]
+category: turret
+research: salvo

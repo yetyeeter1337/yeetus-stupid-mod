@@ -1,0 +1,11 @@
+type: liquid
+description: "a reactive liquid (theres no gases in mindustry) that can be used for stuff, including cooling turrets."
+name: "oxygen"
+color: "5494e8"
+flammability: 0
+temperature: 0.3
+viscosity: 0.2
+explosiveness: 0.4
+research: {
+   parent: water
+}

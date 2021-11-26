@@ -1,0 +1,20 @@
+type: solidPump
+name: "air compressor"
+description: "a device which compresses air into pure oxygen"
+size: 2
+health: 360
+hasPower: true
+liquidCapacity: 120
+powerCapacity: 300
+consumes: {
+   power: 0.5
+}
+pumpAmount: 0.2
+result: oxygen
+requirements: [
+   copper/35
+   lead/20
+   graphite/15
+]
+category: production
+research: rotary-pump
