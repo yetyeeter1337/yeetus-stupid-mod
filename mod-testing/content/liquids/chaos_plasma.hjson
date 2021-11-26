@@ -1,8 +1,0 @@
-type: liquid
-name: "[purple]chaos plasma"
-description: "a very volatile and unstable plasma which can be used in advanced wepons and reactors.[red] EXTREMELY DANGEROUS"
-color: ad14ff
-flammabilty: 1
-temperature: 1
-viscosity: 0.2
-explosiveness: 3
