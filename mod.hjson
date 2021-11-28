@@ -1,0 +1,14 @@
+name: "test-mod"
+displayName: "yeetus's stupid mod"
+author: "[red]ye[orange]et[yellow]us"
+description: "my stupid brain told me to make a mindustry mod
+
+version beta 1: added hydrogen and oxygen (oxygen unobtainable in survival), elctrolyser, graphene infuser, graphene, graphene solar panel, graphene walls
+
+update beta 2: added the pencil launcher, chaos plasma, chaos mixer, eruption, air compressor (oxygen is now obtainable in survival), added campain research
+
+update beta 2.1: added the glock (on a block), tweaked eruption and pencil launcher"
+version: "0.2.1"
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
