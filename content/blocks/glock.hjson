@@ -1,0 +1,28 @@
+type: ItemTurret
+name: "glock"
+description: "a glock on a block"
+size: 1
+itemCapacity: 17
+range: 150
+health: 100
+reloadTime: 5
+recoilAmount: 3
+restitution: 0.1
+inaccuracy: 3
+ammoTypes: {
+  lead: {
+	damage: 3
+	speed: 10
+	ammoMultiplier: 17
+	peirce: 2
+	frontColor: 00040a
+	backColor: 00040a
+	}
+
+}
+requirements: [
+	copper/20
+	lead/10
+]
+category: turret
+research: duo
