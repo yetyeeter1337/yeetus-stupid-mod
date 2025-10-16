@@ -1,5 +1,5 @@
 name: "test-mod"
-displayName: "yeetus's stupid mod [partially broken rn]"
+displayName: "yeetus's stupid mod"
 author: "[purple]7vector[white], formerly [red]ye[orange]et[yellow]us"
 description: "my stupid brain told me to make a mindustry mod
 poorly sprited? yep
@@ -14,7 +14,8 @@ update beta 2: added the pencil launcher, chaos plasma, chaos mixer, eruption, a
 update beta 2.1: added the glock (on a block), tweaked eruption and pencil launcher
 
 update beta 2.1.1 update this god-forsaken mod to work on the latest version, quite a few things are a little broken, but it functions again, and thats all I really care about
-CRITCAL ISSUE: GRAPHITE INFUSER DOSEN'T WORK I'LL FIX IT SOON SORRY"
+
+update beta 2.1.2 fix the graphite infuser because I forgot to check if it was broken (spoiler alert, it was)"
 version: "0.2.1"
 minGameVersion: "146"
 dependencies: [ ]
