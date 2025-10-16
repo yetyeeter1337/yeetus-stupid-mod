@@ -4,7 +4,7 @@ description: "a large machine used for mixing chaos plasma at high tempretures"
 size: 3
 health: 1340
 craftTime: 90
-craftEffect: smelt
+craftEffect: generatespark
 hasLiquids: true
 liquidCapacity: 100
 consumes: {
@@ -17,7 +17,7 @@ consumes: {
      oxygen/0.4
    power: 2
 }
-outputLiquid: chaos_plasma/36
+outputLiquid: chaos_plasma/4
 requirements: [
    copper/110
    lead/100

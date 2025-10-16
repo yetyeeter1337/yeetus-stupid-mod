@@ -3,7 +3,7 @@ name: "electrolyser"
 description: "a machine that uses electricity to split water into hydrogen"
 health: 200
 size: 2
-craftEffect: purify
+craftEffect: bubble
 hasLiquids: true
 requirements: [
     copper/60
@@ -18,6 +18,6 @@ consumes: {
      1.5
 }
 outputLiquid:
-    hydrogen/5
+    hydrogen/2
 category: crafting
 research: rotary-pump
