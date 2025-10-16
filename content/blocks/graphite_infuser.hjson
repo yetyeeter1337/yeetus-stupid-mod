@@ -3,7 +3,7 @@ name: "graphite infuser"
 description: "infuses graphite with hydrogen to make graphene"
 health: 250
 size: 3
-craftEffect: smelt
+craftEffect: smeltsmoke
 requirements: [
    copper/50
    lead/50
